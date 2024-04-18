@@ -22,5 +22,7 @@ Otwarta komunikacja jest zachęcana, aby każdy mógł wyrazić swoje pomysły i
 <i>Jęcząca_Marta</i> - https://github.com/wisnia254/io_grupowe_2_hp/tree/Jeczaca_Marta
 
 # **Zakazane praktyki:**
+
 <u>Próby samodzielnej pracy bez konsultacji z zespołem.</u>
+
 <u>Ignorowanie zasad pracy zespołowej i współpracy.</u>
