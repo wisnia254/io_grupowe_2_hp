@@ -16,5 +16,5 @@ Lista uczestników domu:
 <i>Jęcząca_Marta</i> - https://github.com/wisnia254/io_grupowe_2_hp/tree/Jeczaca_Marta
 
 <b>Zakazane praktyki:</b>
-<u>Próby samodzielnej pracy bez konsultacji z zespołem.
-Ignorowanie zasad pracy zespołowej i współpracy.</u>
+<u>Próby samodzielnej pracy bez konsultacji z zespołem.</u>
+<u>Ignorowanie zasad pracy zespołowej i współpracy.</u>
