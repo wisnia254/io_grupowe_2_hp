@@ -23,6 +23,6 @@ Otwarta komunikacja jest zachęcana, aby każdy mógł wyrazić swoje pomysły i
 
 # **Zakazane praktyki:**
 
-<u>Próby samodzielnej pracy bez konsultacji z zespołem.</u>
+~~Próby samodzielnej pracy bez konsultacji z zespołem.~~
 
 <u>Ignorowanie zasad pracy zespołowej i współpracy.</u>
