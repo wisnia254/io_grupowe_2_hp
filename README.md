@@ -1,8 +1,8 @@
 
 
-# **Dom Hufflepuff**
+# **Dom Ravenclaw**
 
-Dom Hufflepuff słynie z ciężkiej pracy, lojalności i uczciwej gry. W naszym zespole dążymy do wspierania tych wartości w naszej współpracy.
+Dom Ravenclaw słynie z ciężkiej pracy, lojalności i uczciwej gry. W naszym zespole dążymy do wspierania tych wartości w naszej współpracy.
 
 # Zasady współpracy:
 
