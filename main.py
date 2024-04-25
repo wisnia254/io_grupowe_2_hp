@@ -1,4 +1,3 @@
-
 def wybierz_sowe_zwroc_koszt(potwierdzenie_odbioru, odleglosc, typ, specjalna):
     ceny = {
         'lokalna' : {'list': (0, 0, 2), 'paczka': (0, 0, 7)},
@@ -33,3 +32,26 @@ def waluta_dict_na_str(fundusz):
 
 fundusz = {1: 50, 2: 10, 3: 3}
 print(waluta_dict_na_str(fundusz))
+
+# Zadanie 3
+def licz_sume(slownik):
+    galeon = sum(slownik['galeon'])
+    sykl = sum(slownik['sykl'])
+    knut = sum(slownik['knut'])
+
+    sykl += knut // 21
+    knut = knut % 21
+
+    galeon += sykl // 17
+    sykl = sykl % 17
+
+    return {"galeon" : galeon, "sykl" : sykl, "knut" : knut}
+
+
+slownik = {
+    "galeon" : [1, 3, 5],
+    "sykl" : [18, 20, 10],
+    "knut" : [30, 40, 7]
+}
+
+print(licz_sume(slownik))
