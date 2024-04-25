@@ -2,7 +2,7 @@
 
 # **Dom Ravenclaw**
 
-Dom Ravenclaw słynie z ciężkiej pracy, lojalności i uczciwej gry. W naszym zespole dążymy do wspierania tych wartości w naszej współpracy.
+Dom Ravenclaw symbolizuje mądrość, kreatywność i oryginalność. W naszym zespole dążymy do wspierania tych wartości w naszej współpracy.
 
 # Zasady współpracy:
 
