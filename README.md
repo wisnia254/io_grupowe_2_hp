@@ -1,6 +1,6 @@
 
 
-# **Dom Ravenclaw**
+# **Dom Ravenclaw!**
 
 Dom Ravenclaw symbolizuje mądrość, kreatywność i oryginalność. W naszym zespole dążymy do wspierania tych wartości w naszej współpracy.
 
