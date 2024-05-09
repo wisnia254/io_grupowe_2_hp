@@ -20,5 +20,5 @@ jobs:
         steps:
         - uses: actions/checkout@v4
         - name: Ola test
-          run: python ola.py
+          run: python mateusz.py
 
