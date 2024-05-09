@@ -1,0 +1,24 @@
+# komentarz
+
+name: Python - Ola
+
+on: 
+    push:
+        branches: [ "main" ]
+    pull_request:
+        branch: [ "main" ]
+
+
+permissions:
+    contents: read
+
+jobs:
+    build: 
+
+        runs-on: ubuntu-latest
+
+        steps:
+        - uses: actions/checkout@4
+        - name: Ola test
+          run: python ola.py
+
