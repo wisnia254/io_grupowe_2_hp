@@ -1,4 +1,3 @@
-
 def wybierz_sowe_zwroc_koszt(potwierdzenie_odbioru, odleglosc, typ, specjalna):
     ceny = {
         'lokalna' : {'list': (0, 0, 2), 'paczka': (0, 0, 7)},
@@ -15,7 +14,8 @@ def wybierz_sowe_zwroc_koszt(potwierdzenie_odbioru, odleglosc, typ, specjalna):
         knuty += 4
     elif specjalna == 'list gonczy':
         sykle += 1
-
+    elif specjalna == '':
+        knuty += 0
     return {'galeony' : galeony, 'sykle' : sykle, 'knuty' : knuty}
 
-print(wybierz_sowe_zwroc_koszt(True, 'dalekobiezna', 'paczka', 'list gonczy'))
+print(wybierz_sowe_zwroc_koszt('','','',''))
